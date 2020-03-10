@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34f50820-9e4a-4aa0-9773-2a90ef8a5fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqvaKaM34ozdROCnND02qgLGqx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dev.jcwu" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest.testProblem5">
+    <configuration name="MainTest.testIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.jcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.jcwu" />
+      <option name="MAIN_CLASS_NAME" value="dev.jcwu.MainTest" />
+      <option name="METHOD_NAME" value="testIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testPrimeFactors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.jcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.jcwu" />
+      <option name="MAIN_CLASS_NAME" value="dev.jcwu.MainTest" />
+      <option name="METHOD_NAME" value="testPrimeFactors" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testProblem3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.jcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.jcwu" />
+      <option name="MAIN_CLASS_NAME" value="dev.jcwu.MainTest" />
+      <option name="METHOD_NAME" value="testProblem3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testProblem4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.jcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.jcwu" />
+      <option name="MAIN_CLASS_NAME" value="dev.jcwu.MainTest" />
+      <option name="METHOD_NAME" value="testProblem4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testProblem5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.jcwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.jcwu" />
+      <option name="MAIN_CLASS_NAME" value="dev.jcwu.MainTest" />
+      <option name="METHOD_NAME" value="testProblem5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MainTest.testProblem3" />
+      <item itemvalue="JUnit.MainTest.testIsPalindrome" />
+      <item itemvalue="JUnit.MainTest.testProblem4" />
+      <item itemvalue="JUnit.MainTest.testProblem5" />
+      <item itemvalue="JUnit.MainTest.testPrimeFactors" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.testProblem5" />
+        <item itemvalue="JUnit.MainTest.testPrimeFactors" />
+        <item itemvalue="JUnit.MainTest.testProblem4" />
+        <item itemvalue="JUnit.MainTest.testIsPalindrome" />
+        <item itemvalue="JUnit.MainTest.testProblem3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f50820-9e4a-4aa0-9773-2a90ef8a5fbe" name="Default Changelist" comment="" />
+      <created>1583683000654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583683000654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="356" key="GridCell.Tab.0.bottom" timestamp="1583868424493">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583704545738" />
+    <state width="1878" height="356" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424493" />
+    <state width="1878" height="356" key="GridCell.Tab.0.center" timestamp="1583868424492">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="216" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583704545738" />
+    <state width="1878" height="356" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424492" />
+    <state width="1878" height="356" key="GridCell.Tab.0.left" timestamp="1583868424492">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="216" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583704545737" />
+    <state width="1878" height="356" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424492" />
+    <state width="1878" height="356" key="GridCell.Tab.0.right" timestamp="1583868424493">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="216" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583704545738" />
+    <state width="1878" height="356" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424493" />
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom" timestamp="1583868424494">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424494" />
+    <state width="1878" height="356" key="GridCell.Tab.1.center" timestamp="1583868424494">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424494" />
+    <state width="1878" height="356" key="GridCell.Tab.1.left" timestamp="1583868424493">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424493" />
+    <state width="1878" height="356" key="GridCell.Tab.1.right" timestamp="1583868424494">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583868424494" />
+    <state x="665" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583861359195">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="499" y="211" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1583704512641" />
+    <state x="665" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583861359195" />
+  </component>
+</project>
